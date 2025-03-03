@@ -23,15 +23,12 @@
 ---
 
 ## 🚀 Мои проекты
-
-| 📌 Проект | 🔗 Ссылка |
-|-----------|----------|
-| ПО для мониторинга сайтов | [GitHub](https://github.com/sser1to/Site-monitoring-C-) |
-| Виртуальный аквариум | [GitHub](https://github.com/sser1to/virtual_aquarium) |
-| Информационная система "TaxLink" | [GitHub](https://github.com/sser1to/TaxLink) |
-| Приложение для анализа служебных переговоров | [GitHub](https://github.com/Cat-Programmers/AudioML) |
-| Игра "Змейка" | [GitHub](https://github.com/sser1to/SnakeGame) |
-| Игра "Shoot Circle" | [GitHub](https://github.com/sser1to/shoot_circle) |
+- [ПО для мониторинга сайтов](https://github.com/sser1to/Site-monitoring-C-)
+- [Приложение "Виртаульный аквариум"](https://github.com/sser1to/virtual_aquarium)
+- [Информационная система "TaxLink"](https://github.com/sser1to/TaxLink)
+- [Приложение для анализа служебных переговоров](https://github.com/Cat-Programmers/AudioML)
+- [Игра "Змейка"](https://github.com/sser1to/SnakeGame)
+- [Игра "Shoot Circle"](https://github.com/sser1to/shoot_circle)
 
 ---
 
@@ -41,7 +38,7 @@
 📜 **Сертификат** за участие в Окружном хакатоне "Цифровой прорыв" (сезон: "Искусственный интеллект").  
 📜 **Сертификат** за участие в Хакатоне "Tender Hack" по созданию маскота для UX/UI Портала поставщиков.  
 
-🔎 Подробности и сканы: [Achievements](https://github.com/sser1to/Achievements)
+Подробности и сканы можно посмотреть в [Achievements](https://github.com/sser1to/Achievements).
 
 ---
 
@@ -49,7 +46,3 @@
 
 [![VK](https://img.shields.io/badge/VK-%23007AFF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sser1to)  
 [![Telegram](https://img.shields.io/badge/Telegram-%23007AFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sser1to)  
-
----
-
-🎉 **Спасибо за внимание!**
