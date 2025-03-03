@@ -17,6 +17,7 @@
 - [Приложение "Виртаульный аквариум"](https://github.com/sser1to/virtual_aquarium)
 - [Информационная система "TaxLink"](https://github.com/sser1to/TaxLink)
 - [Приложение для анализа служебных переговоров](https://github.com/Cat-Programmers/AudioML)
+- [Игра "Змейка"](https://github.com/sser1to/SnakeGame)
 - [Игра "Shoot Circle"](https://github.com/sser1to/shoot_circle)
 
 ## 🏆 Достижения
