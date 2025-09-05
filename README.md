@@ -29,6 +29,7 @@
 - [Скрытная фоновая утилита для взаимодействия с ChatGPT](https://github.com/sser1to/whisperai)
 - [Сервис для анализа кода по PR](https://github.com/Mitoshi-Team/pr_analyzer)
 - [Приложение для анализа служебных переговоров](https://github.com/Cat-Programmers/AudioML)
+- [Веб-сайт для нового кампуса ИРИТ-РТФ](https://github.com/Mitoshi-Team/iritrtfcampus)
 - [Информационная система "TaxLink"](https://github.com/sser1to/TaxLink)
 - [ПО для мониторинга сайтов](https://github.com/sser1to/Site-monitoring-C-)
 - [Приложение "Виртаульный аквариум"](https://github.com/sser1to/virtual_aquarium)
