@@ -26,6 +26,7 @@
 
 ## 🚀 Мои проекты
 - [Веб-сервис для изучения редких видов животных](https://github.com/sser1to/Zooracle)
+- [AI-агент для анализа логов кибербезопасности](https://gitverse.ru/mitoshi_team/AI-CyberLogAgent)
 - [Скрытная фоновая утилита для взаимодействия с ChatGPT](https://github.com/sser1to/whisperai)
 - [Сервис централизованной авторизации для промышленных контроллеров в электроэнергетике ](https://github.com/Mitoshi-Team/central_auth_service)
 - [Сервис для анализа кода по PR](https://github.com/Mitoshi-Team/pr_analyzer)
