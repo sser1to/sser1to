@@ -41,6 +41,7 @@
 - [Веб-сайт для нового кампуса ИРИТ-РТФ](https://github.com/Mitoshi-Team/iritrtfcampus)
 - [Информационная система "TaxLink"](https://github.com/sser1to/TaxLink)
 - [ПО для мониторинга сайтов](https://github.com/sser1to/Site-monitoring-C-)
+- [Хоррор игра на PyGame](https://github.com/sser1to/pygame_project)
 - [Приложение "Виртаульный аквариум"](https://github.com/sser1to/virtual_aquarium)
 
 ---
