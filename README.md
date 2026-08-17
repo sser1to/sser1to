@@ -32,7 +32,7 @@
 
 ## 🚀 Мои проекты
 
-- [AI-агент для анализа логов кибербезопасности](https://github.com/Mitoshi-Team/AI-CyberLogAgent) (текущий)
+- [AI-агент для анализа логов кибербезопасности](https://github.com/Mitoshi-Team/AI-CyberLogAgent)
 - [Веб-сервис для изучения редких видов животных](https://github.com/sser1to/Zooracle)
 - [Скрытная фоновая утилита для взаимодействия с ChatGPT](https://github.com/sser1to/whisperai)
 - [Сервис централизованной авторизации для промышленных контроллеров в электроэнергетике ](https://github.com/Mitoshi-Team/central_auth_service)
