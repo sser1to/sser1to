@@ -97,6 +97,7 @@
 | **WhisperAI** | Скрытная фоновая утилита для взаимодействия с ChatGPT | [GitHub](https://github.com/sser1to/whisperai) |
 | **Central Auth Service** | Сервис централизованной авторизации для промышленных контроллеров в электроэнергетике | [GitHub](https://github.com/Mitoshi-Team/central_auth_service) |
 | **Цифровая очередь** | Цифровая очередь нового поколения для почтатеха | [GitHub](https://github.com/Mitoshi-Team/digital_queue) |
+| **SpecFlow** | Сервис автоматического извлечения и нормализации характеристик товаров из карточек продавцов | [GitHub](https://github.com/Mitoshi-Team/specflow) |
 | **PR-analyzer** | Сервис для анализа кода по PR | [GitHub](https://github.com/Mitoshi-Team/pr_analyzer) |
 | **AudioML** | Приложение для анализа служебных переговоров | [GitHub](https://github.com/Cat-Programmers/AudioML) |
 | **IRIT RTF Campus** | Веб-сайт для нового кампуса ИРИТ-РТФ | [GitHub](https://github.com/Mitoshi-Team/iritrtfcampus) |
@@ -121,7 +122,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>📜 Сертификаты</b></summary>
 <br>
 
