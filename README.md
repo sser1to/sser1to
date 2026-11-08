@@ -101,7 +101,6 @@
 |---|---|---|
 | **Wavescan** | AI-агент для анализа логов кибербезопасности | [GitHub](https://github.com/Mitoshi-Team/AI-CyberLogAgent) |
 | **Zooracle** | Веб-сервис для изучения редких видов животных | [GitHub](https://github.com/sser1to/Zooracle) |
-| **WhisperAI** | Скрытная фоновая утилита для взаимодействия с ChatGPT | [GitHub](https://github.com/sser1to/whisperai) |
 | **Central Auth Service** | Сервис централизованной авторизации для промышленных контроллеров в электроэнергетике | [GitHub](https://github.com/Mitoshi-Team/central_auth_service) |
 | **Цифровая очередь** | Цифровая очередь нового поколения для почтатеха | [GitHub](https://github.com/Mitoshi-Team/digital_queue) |
 | **SpecFlow** | Сервис автоматического извлечения и нормализации характеристик товаров из карточек продавцов | [GitHub](https://github.com/Mitoshi-Team/specflow) |
