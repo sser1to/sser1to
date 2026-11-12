@@ -80,7 +80,7 @@
 <div align="center">
 
 | Категория | Технологии |
-|---|---|
+| --- | --- |
 | **Языки программирования** | C#, Python |
 | **Языки разметки** | HTML (CSS), YAML, XAML, JSON |
 | **Моделирование** | UML |
@@ -98,7 +98,7 @@
 <div align="center">
 
 | Проект | Описание | Ссылка |
-|---|---|---|
+| --- | --- | --- |
 | **Wavescan** | AI-агент для анализа логов кибербезопасности | [GitHub](https://github.com/Mitoshi-Team/AI-CyberLogAgent) |
 | **Zooracle** | Веб-сервис для изучения редких видов животных | [GitHub](https://github.com/sser1to/Zooracle) |
 | **Central Auth Service** | Сервис централизованной авторизации для промышленных контроллеров в электроэнергетике | [GitHub](https://github.com/Mitoshi-Team/central_auth_service) |
